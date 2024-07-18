@@ -1,4 +1,4 @@
-# peer
+# ViGH
 A novel privacy-preserving large-scale image retrieval framework. 
 ![image](https://github.com/01181521/peer/blob/main/framework.png)
 ## How to run
