@@ -1,6 +1,6 @@
 # ViGH
 A Privacy-preserving Large-scale Image Retrieval Framework with Vision GNN Hashing
-![image](https://github.com/01181521/peer/blob/main/framework.pdf)
+![image](https://github.com/01181521/peer/blob/main/framework.png)
 ## How to run
 The environment is
 
